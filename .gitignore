@@ -1,0 +1,7 @@
+# Secrets
+**/redis_url.txt
+
+# Compiled files
+bin/
+*.class
+*.orig
